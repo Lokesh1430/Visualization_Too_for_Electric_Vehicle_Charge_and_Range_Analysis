@@ -18,7 +18,6 @@
 </p>
 
 
----
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
@@ -61,7 +60,8 @@ The **Electric Cars Analytics Dashboard** is a modern EV data visualization plat
 
 It transforms raw EV datasets into interactive dashboards and storytelling analytics.
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 🎯 Objectives
 - Analyze EV efficiency & performance
@@ -69,21 +69,24 @@ It transforms raw EV datasets into interactive dashboards and storytelling analy
 - Visualize charging stations across India
 - Deploy analytics via Flask web app
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 🏗️ System Architecture
 ```
 MySQL Database → Tableau Desktop → Tableau Public → Flask Web App → End User
 ```
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 🧩 Architecture Diagram
 <p align="center">
 <img src="assets/architecture.png" width="800">
 </p>
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 🛠️ Tech Stack
 
@@ -91,8 +94,8 @@ MySQL Database → Tableau Desktop → Tableau Public → Flask Web App → End 
 <img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,github" />
 </p>
 
----
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 # 🎬 Dashboard Preview
 
 <p align="center">
@@ -102,12 +105,13 @@ MySQL Database → Tableau Desktop → Tableau Public → Flask Web App → End 
 <img src="assets/STORY.png" width="100%">
 </p>
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 🌐 Live Demo
 🔗 https://smartinternz-web-integration.onrender.com/
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 📂 Project Structure
 ```
@@ -118,7 +122,8 @@ Electric-Cars-Analytics/
 └── README.md
 ```
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 🚀 Run Locally
 ```bash
@@ -133,7 +138,8 @@ Open:
 http://127.0.0.1:5000
 ```
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # ✨ Features (Glassmorphism Style Cards)
 
@@ -144,7 +150,8 @@ http://127.0.0.1:5000
 | 🌐 Flask Integration | Live web deployment |
 | 🗄️ MySQL Connectivity | Structured database layer |
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 📈 Future Scope
 - Real-time EV API integration
@@ -152,7 +159,8 @@ http://127.0.0.1:5000
 - Mobile-responsive dashboard
 - Advanced Python analytics
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 👨‍💻 Team Members
 **Team Leader:**  
@@ -166,7 +174,8 @@ http://127.0.0.1:5000
 ✨ Sangeetham Ganesh  
  
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 📜 License
 Academic Project – SmartInternz Internship
