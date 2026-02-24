@@ -37,6 +37,8 @@
 
 🌐 Live Demo
 
+💻 Source Code
+
 📂 Project Structure
 
 🚀 Run Locally
@@ -110,6 +112,11 @@ MySQL Database → Tableau Desktop → Tableau Public → Flask Web App → End 
 
 # 🌐 Live Demo
 🔗 https://smartinternz-web-integration.onrender.com/
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+# 💻 Source Code
+📂 GitHub Repository:  https://github.com/Lokesh1430/SmartInternz_Web_Integration
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
