@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/banner.png" width="100%">
+<img src="assets/banner1.png" width="100%">
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ MySQL Database → Tableau Desktop → Tableau Public → Flask Web App → End 
 
 # 🧩 Architecture Diagram
 <p align="center">
-<img src="ADD_ARCHITECTURE_IMAGE_LINK_HERE" width="800">
+<img src="assets/architecture.png" width="800">
 </p>
 
 ---
@@ -96,8 +96,8 @@ MySQL Database → Tableau Desktop → Tableau Public → Flask Web App → End 
 # 🎬 Dashboard Preview
 
 <p align="center">
-<img src="ADD_DASHBOARD_IMAGE_LINK_HERE" width="45%">
-<img src="ADD_STORY_IMAGE_LINK_HERE" width="45%">
+<img src="assets/DASHBOARD.png" width="45%">
+<img src="assets/STORY.png" width="45%">
 </p>
 
 ---
